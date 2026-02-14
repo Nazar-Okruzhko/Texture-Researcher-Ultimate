@@ -1,7 +1,9 @@
 # Texture-Researcher-Ultimate
 Hello, Nazar Okruzhko here maybe some of you know me from Reddit or Sketchfab, I am an ID Tech 5 expert, I am very newbie/noob at reverse engineering just started a few months ago but made some progress over the past few weeks, expecially for ID Tech 5 and 6 games...
 
-<img width="1920" height="1080" alt="Screenshot (1976)" src="https://github.com/user-attachments/assets/8147deee-f732-42e0-941a-b561a6b9f681" />
+<img width="1920" height="1080" alt="Screenshot (2087)" src="https://github.com/user-attachments/assets/d8315d39-76a1-493c-aea3-eece03a2129b" />
+
+![Static Badge](https://img.shields.io/badge/Minimal%20Requirements%3A-Windows%2010-default)
 
 I've made a tool called "Texture Researcher Ultimate" for Extracting textures from any games, it's based on the original "Raw Texture Cooker".
 
@@ -11,16 +13,11 @@ I've made a tool called "Texture Researcher Ultimate" for Extracting textures fr
 
 Texture Researcher Ultimate is a program for Reverse Engineering/Studying Binary Texture 3D files.
 
-This tool allows for exposing Binary file for:
-
-• Image Offset (Payload)
-
-• Image Width
-
-• Image Height
-
-• Image Pixel Format
-
+This tool allows for exposing Binary file for:\
+• Image Offset (Payload)\
+• Image Width\
+• Image Height\
+• Image Pixel Format\
 • Image Swizzle Type
 
 Tool has support for Reading Width and Height values from Binary files in Short data type.
