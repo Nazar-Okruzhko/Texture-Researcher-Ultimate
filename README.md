@@ -1,7 +1,7 @@
 # Texture-Researcher-Ultimate
 Hello, Nazar Okruzhko here maybe some of you know me from Reddit or Sketchfab, I am an ID Tech 5 expert, I am very newbie/noob at reverse engineering just started a few months ago but made some progress over the past few weeks, expecially for ID Tech 5 and 6 games...
 
-<img width="1920" height="1080" alt="Screenshot (2087)" src="https://github.com/user-attachments/assets/d8315d39-76a1-493c-aea3-eece03a2129b" />
+<img width="1920" height="1080" alt="Screenshot (2019)" src="https://github.com/user-attachments/assets/bfb78309-433b-4109-9015-a1a17c0cc894" />
 
 ![Static Badge](https://img.shields.io/badge/Minimal%20Requirements%3A-Windows%2010-default)
 
