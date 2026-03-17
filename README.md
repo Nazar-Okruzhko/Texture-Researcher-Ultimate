@@ -5,9 +5,11 @@ Hello, Nazar Okruzhko here maybe some of you know me from Reddit or Sketchfab, I
 
 ![Static Badge](https://img.shields.io/badge/Minimal%20Requirements%3A-Windows%2010-default)
 
-I've made a tool called "Texture Researcher Ultimate" for Extracting textures from any games, it's based on the original "Raw Texture Cooker".
+What is Texture Researcher Ultimate?
 
-[Hovewer I do really recommend you trying out the ImageHeat this is far more advence program with other features]
+Basically it's an encoder for Compressed Textures (BC1-BC7) or Uncompressed Textures (RGBA 8888/4444/5551) who's image data always starts at a certain Offset followed by Width and Height parameters which can be found in headers as well as the BC Flag Byte...
+
+(Hovewer I do really recommend you trying out the ImageHeat this is far more advenced program with other features)
 
 ## Getting Started
 
