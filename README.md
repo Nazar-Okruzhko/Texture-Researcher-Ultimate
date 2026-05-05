@@ -3,7 +3,7 @@ Hello, Nazar Okruzhko here maybe some of you know me from Reddit or Sketchfab, I
 
 <img width="1920" height="1080" alt="Screenshot (2922)" src="https://github.com/user-attachments/assets/03c023ce-9800-48da-bad4-4748f1dfbebc" />
 
-![Static Badge](https://img.shields.io/badge/Minimal%20Requirements%3A-Windows%2010-default)
+![Static Badge](https://img.shields.io/badge/Minimal%20Requirements%3A%20-%20Windows%20XP%20-%20Orange)
 
 What is Texture Researcher Ultimate?
 
