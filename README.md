@@ -1,5 +1,10 @@
-# <img width="1398" height="194" alt="image" src="https://github.com/user-attachments/assets/ccfb1a09-0c24-43f3-b9f7-910f18912c84" />
-Hello, Nazar Okruzhko here maybe some of you know me from Reddit or Sketchfab, I am an ID Tech 5 expert, I am very newbie/noob at reverse engineering just started a few months ago but made some progress over the past few weeks, expecially for ID Tech 5 and 6 games...
+<img width="1398" height="151" alt="image" src="https://github.com/user-attachments/assets/a927397d-21df-4d8f-9f28-074161e34392" />
+    
+    Hello, it's Nazar Okruzhko, some of you might know me from Reddit or Sketchfab, I am an "ID Tech 5 Expert" in terms of Reverse Engineering, 
+    I used to be a real Begginer at reverse engineering, just started a some time ago hovewer Reversing ID Tech 5 / ID Tech 6 / ID 
+    Tech 7 / ID Tech 8 games made me grew unrealisticly fast, and over time write some Extraction Scripts. 
+    I noticed that I won't be able to countinue writing custom Extraction Scripts, so I decided to release the "Ultimate" Extraction Tools!...
+    I've made a tool called "Texture Researcher Ultimate" for Extracting 2D Textures from any games.
 
 <img width="1920" height="1080" alt="Screenshot (2922)" src="https://github.com/user-attachments/assets/03c023ce-9800-48da-bad4-4748f1dfbebc" />
 
